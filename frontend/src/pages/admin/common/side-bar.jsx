@@ -13,7 +13,7 @@ export const SideBar = () => {
           <Button variant="ghost" className="justify-start"><Home className="mr-2" />Dashboard</Button>
         </Link>
 
-        <Link to="/">
+        <Link to="/houses">
           <Button variant="ghost" className="justify-start"><Home className="mr-2" />Houses</Button>
         </Link>
 
